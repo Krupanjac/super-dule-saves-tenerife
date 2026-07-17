@@ -2,7 +2,7 @@
 
 A Super Mario–style arcade platformer built in React, starring **Bald Mario (Dule)**
 on a quest across Tenerife. All character, enemy, and pipe art are hand-made
-vectors exported from Figma via [Wonder](https://wonder.so); the game engine,
+vectors exported from [Wonder](https://wonder.design); the game engine,
 levels, and arcade UI were built around them.
 
 ## Play
