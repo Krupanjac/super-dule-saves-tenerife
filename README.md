@@ -44,5 +44,3 @@ saves Tenerife.
   one-way bridge platforms, stomp combos
 - WebAudio chiptune SFX plus a looping background track (`public/claude.mp3`)
 - Every level is verified completable end-to-end by an automated Playwright bot
-
-Built with [Claude Code](https://claude.com/claude-code).
