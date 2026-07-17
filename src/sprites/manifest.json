@@ -1,0 +1,79 @@
+{
+  "MarioIdle": {
+    "file": "Bald Mario Vector Sprite.tsx",
+    "origViewBox": "0 0 150.8 169",
+    "w": 82.5,
+    "h": 124.6,
+    "aspect": 0.6621
+  },
+  "MarioWalk1": {
+    "file": "SVG.tsx",
+    "origViewBox": "0 -8 150.8 113",
+    "w": 95.4,
+    "h": 111.9,
+    "aspect": 0.8525
+  },
+  "MarioWalk2": {
+    "file": "Bald Mario Walk 2 Vector.tsx",
+    "origViewBox": "0 0 159.6 178",
+    "w": 86.9,
+    "h": 132.0,
+    "aspect": 0.6583
+  },
+  "MarioWalk3": {
+    "file": "SVG-2.tsx",
+    "origViewBox": "0 -8 150 112",
+    "w": 88.9,
+    "h": 111.0,
+    "aspect": 0.8009
+  },
+  "MarioJumpStart": {
+    "file": "Bald Mario Jump Start Vector.tsx",
+    "origViewBox": "0 0 150 149.8",
+    "w": 98.2,
+    "h": 110.4,
+    "aspect": 0.8895
+  },
+  "MarioJump": {
+    "file": "Bald Mario Jump Vector.tsx",
+    "origViewBox": "0 0 150 150",
+    "w": 156.7,
+    "h": 120.2,
+    "aspect": 1.3037
+  },
+  "MarioJumpFinish": {
+    "file": "Bald Mario Jump Finish Vector.tsx",
+    "origViewBox": "0 0 151.8 176",
+    "w": 103.9,
+    "h": 137.8,
+    "aspect": 0.754
+  },
+  "Porcupine": {
+    "file": "Hairy Porcupine Vector.tsx",
+    "origViewBox": "0 0 150 150",
+    "w": 118.7,
+    "h": 132.8,
+    "aspect": 0.8938
+  },
+  "PipeOne": {
+    "file": "Jungle Pipe One Vector.tsx",
+    "origViewBox": "0 0 119.4 86",
+    "w": 72.8,
+    "h": 92.8,
+    "aspect": 0.7845
+  },
+  "PipeTwo": {
+    "file": "Jungle Pipe Two Vector.tsx",
+    "origViewBox": "0 0 150 150",
+    "w": 102.0,
+    "h": 116.6,
+    "aspect": 0.8748
+  },
+  "PipeThree": {
+    "file": "SVG-3.tsx",
+    "origViewBox": "0 0 150 150",
+    "w": 108.0,
+    "h": 134.1,
+    "aspect": 0.8054
+  }
+}
